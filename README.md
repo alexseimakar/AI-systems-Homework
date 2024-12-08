@@ -4,9 +4,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://vk.com/lyoha3141592653589793238462643">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
-  </a>
   <a href="https://essentucky.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-orange?style=for-the-badge&logo=itchio&logoColor=white" alt="Itch.io Badge"/>
   </a>
